@@ -1,0 +1,7 @@
+---
+unicornVersion: "0.0.1"
+type: "OTHER"
+name: "hpi-cloud-service-news"
+description: "A microservice providing news from HPI and HPImgzn."
+version: "0.0.1"
+githubName: null
